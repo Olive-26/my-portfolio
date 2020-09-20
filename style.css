@@ -61,19 +61,20 @@ body {
       }
 
   #navbar li a :hover{
-      background-color: #3693ff;}
+      background-color: #3693ff;
+    }
  /* Showcase Area*/
   #showcase {
       text-align: center;
       text-emphasis-color: white;
       font-size: xx-large;
-      text-align: c;
+      text-align: center;
       
       height: 30vmax
   }
 
   .showcase-content {
-      display:-flex;
+      display:flex;
       flex-direction: column;
       text-align:center;
       align-items: center;
@@ -87,10 +88,30 @@ body {
       color:fff;
     
   }
-  .showcase-content- h1{
+  .showcase-content h1{
       margin-bottom :10rem;
       font-size: 4rem;
   }
+#intro{
+    float: right;
+
+}
+#background-profile{
+    float: left;
+    margin: 20px;
+}
+.info{
+    margin:20px;
+
+}
+.lists{
+   display: flex;
+   justify-content: center;
+    
+}
+.lists ul{
+    margin-right: 30px;
+}
 
     
 
