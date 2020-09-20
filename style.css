@@ -7,9 +7,15 @@
 }
 .btn{
     text-decoration: none;
+    color: rgb(155, 234, 248);
 }
 html{
     font-size: 20px;
+}
+header{
+    background-image: url("hola.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 body {
@@ -94,6 +100,8 @@ body {
   }
 #intro{
     float: right;
+    margin:20px;
+
 
 }
 #background-profile{
