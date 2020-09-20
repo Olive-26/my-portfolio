@@ -1,5 +1,5 @@
 # portfolio
-This is a website that describes who iam and who i want to be 
+This is a website that describes who iam and who i want to be after learning more about coding and programming
 #### By **olive kaitesi**
 ## Author's information. 
 Iam currently a student at moringa school. Am junior developer good at html and css, comfortable with html.
