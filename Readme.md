@@ -9,3 +9,6 @@ Iam currently a student at moringa school. Am junior developer good at html and 
 * click on"clear "if you to clear input
 ## live link
 [click here] (https://olive-26.github.io/my-portfolio/)
+## technologies used.
+* Html
+* css
