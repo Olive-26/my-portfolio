@@ -8,4 +8,4 @@ Iam currently a student at moringa school. Am junior developer good at html and 
 * click on " on here" if you want to see my portfolio
 * click on"clear "if you to clear input
 ## live link
-[click here] (
+[click here] (https://olive-26.github.io/my-portfolio/)
