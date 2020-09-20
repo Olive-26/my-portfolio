@@ -12,3 +12,7 @@ Iam currently a student at moringa school. Am junior developer good at html and 
 ## technologies used.
 * Html
 * css
+## contact details.
+Any issues please reach out
+* kaitesi.olive777@gmail.com
+* 0781717613
